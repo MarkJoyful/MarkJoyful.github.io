@@ -14,7 +14,7 @@
 
 想要查看手机端显示效果，扫描下方二维码浏览器打开即可
 
-![4](/screenshot/4.png)
+![4](/screenshot/qrcode.png)
 
 
 
